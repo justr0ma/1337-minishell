@@ -2,4 +2,4 @@
 minishell-subject: 
 https://cdn.intra.42.fr/pdf/pdf/65357/en.subject.pdf
 
-Minishell is a team project to create a basic shell program in C. It implements redirections and pipes, as well as environment variable expansions and the cd, echo, env, exit, export, pwd, and unset built-in commands. I created this project with my friend Anass Bouhmad 
+Minishell represents a collaborative endeavor where I teamed up with my friend Anass Bouhmad to develop a fundamental shell program in C. This project showcases our successful implementation of key features, including redirections, pipes, environment variable expansions, and a range of essential built-in commands such as cd, echo, env, exit, export, pwd, and unset.
